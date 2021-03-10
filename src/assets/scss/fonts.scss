@@ -1,24 +1,231 @@
+// Roboto
+
+// @font-face {
+//   font-family: Roboto;
+//   src: url(~@/assets/fonts/draft-b/Roboto-Light.ttf);
+//   font-weight: 300;
+// }
+
+// @font-face {
+//   font-family: Roboto;
+//   src: url(~@/assets/fonts/draft-b/Roboto-Regular.ttf);
+//   font-weight: normal;
+// }
+
+// @font-face {
+//   font-family: Roboto;
+//   src: url(~@/assets/fonts/draft-b/Roboto-Regular.ttf);
+//   font-weight: 400;
+// }
+
+// @font-face {
+//   font-family: Roboto;
+//   src: url(~@/assets/fonts/draft-b/Roboto-Medium.ttf);
+//   font-weight: 500;
+// }
+
+// @font-face {
+//   font-family: Roboto;
+//   src: url(~@/assets/fonts/draft-b/Roboto-Bold.ttf);
+//   font-weight: bold;
+// }
+
+
 @font-face {
-	font-family: 'Josefin Sans';
-	src: url('~@/assets/fonts/Josefin_Sans/static/JosefinSans-Bold.ttf') format('truetype');
-	font-weight: bold;
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-hairline/draft-b-hairline.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-hairline/draft-b-hairline.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-hairline/draft-b-hairline.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-hairline/draft-b-hairline.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-hairline/draft-b-hairline.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-hairline/draft-b-hairline.svg#youworkforthem') format('svg');
+	font-weight: 100;
 	font-style: normal;
 }
 @font-face {
-	font-family: 'Josefin Sans';
-  src: url('~@/assets/fonts/Josefin_Sans/static/JosefinSans-BoldItalic.ttf') format('truetype');
-	font-weight: bold;
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-hairline-italic/draft-b-hairline-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-hairline-italic/draft-b-hairline-italic.eot?#iefix') format('embedded-opentype'),
+        url('~@/assets/fonts/draft-b/draft-b-hairline-italic/draft-b-hairline-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-hairline-italic/draft-b-hairline-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-hairline-italic/draft-b-hairline-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-hairline-italic/draft-b-hairline-italic.svg#youworkforthem') format('svg');
+	font-weight: 100;
 	font-style: italic;
 }
 @font-face {
-	font-family: 'Josefin Sans';
-  src: url('~@/assets/fonts/Josefin_Sans/static/JosefinSans-Light.ttf') format('truetype');
-	font-weight: lighter;
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-thin/draft-b-thin.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-thin/draft-b-thin.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-thin/draft-b-thin.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-thin/draft-b-thin.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-thin/draft-b-thin.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-thin/draft-b-thin.svg#youworkforthem') format('svg');
+	font-weight: 200;
 	font-style: normal;
 }
 @font-face {
-	font-family: 'Josefin Sans';
-  src: url('~@/assets/fonts/Josefin_Sans/static/JosefinSans-ExtraLightItalic.ttf') format('truetype');
-	font-weight: 100;
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-thin-italic/draft-b-thin-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-thin-italic/draft-b-thin-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-thin-italic/draft-b-thin-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-thin-italic/draft-b-thin-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-thin-italic/draft-b-thin-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-thin-italic/draft-b-thin-italic.svg#youworkforthem') format('svg');
+	font-weight: 200;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-light/draft-b-light.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-light/draft-b-light.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-light/draft-b-light.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-light/draft-b-light.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-light/draft-b-light.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-light/draft-b-light.svg#youworkforthem') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-light-italic/draft-b-light-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-light-italic/draft-b-light-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-light-italic/draft-b-light-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-light-italic/draft-b-light-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-light-italic/draft-b-light-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-light-italic/draft-b-light-italic.svg#youworkforthem') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-regular/draft-b-regular.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-regular/draft-b-regular.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-regular/draft-b-regular.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-regular/draft-b-regular.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-regular/draft-b-regular.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-regular/draft-b-regular.svg#youworkforthem') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-regular-italic/draft-b-regular-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-regular-italic/draft-b-regular-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-regular-italic/draft-b-regular-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-regular-italic/draft-b-regular-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-regular-italic/draft-b-regular-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-regular-italic/draft-b-regular-italic.svg#youworkforthem') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-medium/draft-b-medium.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-medium/draft-b-medium.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-medium/draft-b-medium.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-medium/draft-b-medium.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-medium/draft-b-medium.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-medium/draft-b-medium.svg#youworkforthem') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-medium-italic/draft-b-medium-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-medium-italic/draft-b-medium-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-medium-italic/draft-b-medium-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-medium-italic/draft-b-medium-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-medium-italic/draft-b-medium-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-medium-italic/draft-b-medium-italic.svg#youworkforthem') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-semibold/draft-b-semibold.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-semibold/draft-b-semibold.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-semibold/draft-b-semibold.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-semibold/draft-b-semibold.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-semibold/draft-b-semibold.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-semibold/draft-b-semibold.svg#youworkforthem') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-semibold-italic/draft-b-semibold-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-semibold-italic/draft-b-semibold-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-semibold-italic/draft-b-semibold-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-semibold-italic/draft-b-semibold-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-semibold-italic/draft-b-semibold-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-semibold-italic/draft-b-semibold-italic.svg#youworkforthem') format('svg');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-bold/draft-b-bold.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-bold/draft-b-bold.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-bold/draft-b-bold.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-bold/draft-b-bold.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-bold/draft-b-bold.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-bold/draft-b-bold.svg#youworkforthem') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-bold-italic/draft-b-bold-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-bold-italic/draft-b-bold-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-bold-italic/draft-b-bold-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-bold-italic/draft-b-bold-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-bold-italic/draft-b-bold-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-bold-italic/draft-b-bold-italic.svg#youworkforthem') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-extrabold/draft-b-extrabold.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-extrabold/draft-b-extrabold.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-extrabold/draft-b-extrabold.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-extrabold/draft-b-extrabold.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-extrabold/draft-b-extrabold.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-extrabold/draft-b-extrabold.svg#youworkforthem') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-extrabold-italic/draft-b-extrabold-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-extrabold-italic/draft-b-extrabold-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-extrabold-italic/draft-b-extrabold-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-extrabold-italic/draft-b-extrabold-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-extrabold-italic/draft-b-extrabold-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-extrabold-italic/draft-b-extrabold-italic.svg#youworkforthem') format('svg');
+	font-weight: 800;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-black/draft-b-black.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-black/draft-b-black.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-black/draft-b-black.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-black/draft-b-black.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-black/draft-b-black.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-black/draft-b-black.svg#youworkforthem') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('~@/assets/fonts/draft-b/draft-b-black-italic/draft-b-black-italic.eot');
+	src: url('~@/assets/fonts/draft-b/draft-b-black-italic/draft-b-black-italic.eot?#iefix') format('embedded-opentype'),
+             url('~@/assets/fonts/draft-b/draft-b-black-italic/draft-b-black-italic.woff2') format('woff2'),
+	     url('~@/assets/fonts/draft-b/draft-b-black-italic/draft-b-black-italic.woff') format('woff'),
+	     url('~@/assets/fonts/draft-b/draft-b-black-italic/draft-b-black-italic.ttf') format('truetype'),
+	     url('~@/assets/fonts/draft-b/draft-b-black-italic/draft-b-black-italic.svg#youworkforthem') format('svg');
+	font-weight: 900;
 	font-style: italic;
 }

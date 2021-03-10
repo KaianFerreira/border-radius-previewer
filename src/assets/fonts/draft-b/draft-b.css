@@ -1,0 +1,198 @@
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline.svg#youworkforthem') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-hairline-italic.svg#youworkforthem') format('svg');
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin.svg#youworkforthem') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-thin-italic.svg#youworkforthem') format('svg');
+	font-weight: 200;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light.svg#youworkforthem') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-light-italic.svg#youworkforthem') format('svg');
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular.svg#youworkforthem') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-regular-italic.svg#youworkforthem') format('svg');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium.svg#youworkforthem') format('svg');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-medium-italic.svg#youworkforthem') format('svg');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold.svg#youworkforthem') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-semibold-italic.svg#youworkforthem') format('svg');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold.svg#youworkforthem') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-bold-italic.svg#youworkforthem') format('svg');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold.svg#youworkforthem') format('svg');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-extrabold-italic.svg#youworkforthem') format('svg');
+	font-weight: 800;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black.svg#youworkforthem') format('svg');
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Draft B';
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black-italic.eot');
+	src: url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black-italic.eot?#iefix') format('embedded-opentype'),
+             url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black-italic.woff2') format('woff2'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black-italic.woff') format('woff'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black-italic.ttf') format('truetype'),
+	     url('http://tiketera.zapto.com.br/wp-content/uploads/2020/10/draft-b-black-italic.svg#youworkforthem') format('svg');
+	font-weight: 900;
+	font-style: italic;
+}
